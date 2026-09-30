@@ -1,6 +1,6 @@
 # Carlos Caballero
 
-**Economics Graduate | Finance Student | Financial Markets, Investment Analytics Research & Portfolio Risk**
+**Economics Graduate | Business & Finance Student | Financial Markets, Investment Analytics Research & Portfolio Risk**
 
 I build applied finance projects that connect market data, quantitative methods and financial analysis with decision-ready outputs.
 
