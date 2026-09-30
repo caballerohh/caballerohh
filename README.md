@@ -8,9 +8,10 @@ I build applied finance projects that connect market data, quantitative methods 
 
 I am an Economics graduate from Universidad Nacional Mayor de San Marcos and am currently pursuing Business Administration and Finance at Universidad San Ignacio de Loyola in Lima, Peru.
 
+I am building a career in finance driven by handson experience, high impact quantitative projects, continuous technical development, and a strong track record in international financial competitions
+
 My work focuses on investment research, portfolio risk, financial modeling, fixed income and macro-market analysis. I use Python, Excel, Power BI and Bloomberg to transform financial and economic data into valuation models, risk diagnostics and analytical reports.
 
-I am building a career in finance driven by handson experience, high impact quantitative projects, continuous technical development, and a strong track record in international financial competitions
 
 ## Selected Work
 
