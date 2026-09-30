@@ -10,7 +10,7 @@ I am an Economics graduate from Universidad Nacional Mayor de San Marcos and am 
 
 My work focuses on investment research, portfolio risk, financial modeling, fixed income and macro-market analysis. I use Python, Excel, Power BI and Bloomberg to transform financial and economic data into valuation models, risk diagnostics and analytical reports.
 
-I am currently developing my profile for internship and entry-level opportunities in investment research, portfolio and market risk, fixed income and corporate finance.
+I am building a career in finance driven by handson experience, high impact quantitative projects, continuous technical development, and a strong track record in international financial competitions
 
 ## Selected Work
 
