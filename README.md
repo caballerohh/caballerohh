@@ -55,6 +55,48 @@ My work focuses on investment research, portfolio risk, financial modeling, fixe
 - Power BI dashboards
 - Bloomberg market and company data
 
+## Professional Development
+
+### Selected Credentials & Programs
+
+- **Bloomberg Market Concepts — Bloomberg | 2025**  
+  Training in economic indicators, currencies, fixed income and equity markets.
+
+- **McKinsey Forward Program — McKinsey & Company | 2025**  
+  Professional development in structured problem-solving, adaptability, communication and digital collaboration.
+
+- **Oxford Test of English — B2 Level | 2024**  
+  International certification of upper-intermediate English proficiency.
+
+### Applied Job Simulations
+
+- **Markets Quantitative Analysis Job Simulation — Citi / Forage | 2025**  
+  Applied Python, Monte Carlo simulation and derivatives-pricing methods to quantitative markets cases.
+
+- **Investment Management Job Simulation — Fidelity International / Forage | 2025**  
+  Evaluated investment information and developed evidence-based portfolio recommendations.
+
+- **Markets Sales & Trading Job Simulation — Citi / Forage**  
+  Analyzed overnight USD rates and FOMC expectations, formulated a market view and developed a client trade idea with an associated risk-hedging strategy.
+
+- **Credit Analyst Job Simulation — Standard Chartered / Forage**  
+  Conducted an annual credit review using financial and quantitative analysis, identified key business and repayment risks and developed a structured credit recommendation.
+
+- **Public and Private Credit Job Simulation — PGIM / Forage**  
+  Applied corporate credit research, financial-ratio analysis and Excel-based portfolio analysis to assess credit quality and communicate investment implications to stakeholders.
+
+## Competitions & Challenges
+
+- **JPMorganChase × AmplifyMe - MarketMind Challenge | 2026**  
+  Registered for a six-week markets challenge involving weekly analytical and decision-making exercises.
+  
+- **CFA Institute x AmplifyMe - Investing Simulator Challenge | 2026**  
+  Completed Portfolio Manager and Investment Banker simulation rounds under time-constrained market scenarios.
+
+- **Zest Equity Valuation Challenge | 2025-2026**  
+  Participated in an equity-valuation case involving financial analysis, company valuation and investment-pitch development. **Valuations: SCCO (2025), top 9°/45 teams. IRM (2026), first stage.**
+
+
 ## Current Development Focus
 
 - Building reproducible financial analytics workflows
