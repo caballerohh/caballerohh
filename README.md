@@ -6,7 +6,7 @@ I build applied finance projects that connect market data, quantitative methods 
 
 ## About Me
 
-I am an Economics graduate from Universidad Nacional Mayor de San Marcos and currently pursue Business Administration and Finance at Universidad San Ignacio de Loyola in Lima, Peru.
+I am an Economics graduate from Universidad Nacional Mayor de San Marcos and am currently pursuing Business Administration and Finance at Universidad San Ignacio de Loyola in Lima, Peru.
 
 My work focuses on investment research, portfolio risk, financial modeling, fixed income and macro-market analysis. I use Python, Excel, Power BI and Bloomberg to transform financial and economic data into valuation models, risk diagnostics and analytical reports.
 
@@ -63,6 +63,7 @@ I am currently developing my profile for internship and entry-level opportunitie
 
 ## Connect
 
+- [Financial Research Portfolio](https://market-path-builder.lovable.app/)
 - [LinkedIn](https://www.linkedin.com/in/caballerohh/)
 - [GitHub Projects](https://github.com/caballerohh?tab=repositories)
 
